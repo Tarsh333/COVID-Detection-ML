@@ -1,0 +1,86 @@
+LOCUS       KF735865                 999 bp    DNA     linear   VRL 03-MAR-2016
+DEFINITION  HIV-1 isolate Cameroon1(Trugene) HIV DR 23 from Cameroon pol
+            protein (pol) gene, partial cds.
+ACCESSION   KF735865
+VERSION     KF735865.2
+KEYWORDS    .
+SOURCE      Human immunodeficiency virus 1 (HIV-1)
+  ORGANISM  Human immunodeficiency virus 1
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus.
+REFERENCE   1  (bases 1 to 999)
+  AUTHORS   Jenabian,M.A., Talla,F., Talla,P., Mbopi-Keou,F.X., Charpentier,C.,
+            Kane,C.T. and Belec,L.
+  TITLE     Pitfalls of antiretroviral drug resistance genotyping of HIV-1
+            Group M and Group N from Cameroon by sequenced-based assays
+  JOURNAL   Niger Med J 56 (6), 420-424 (2015)
+   PUBMED   26903701
+REFERENCE   2  (bases 1 to 999)
+  AUTHORS   Belec,L.
+  TITLE     Comparison of the Trugene HIV-1 genotyping assay and the ViroSeq
+            HIV-1 genotyping system v2.0 to detect antiretroviral drug
+            resistance mutations using Cameroonian samples from patients in
+            therapeutic failure according to the World Health Organization
+            criteria
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 999)
+  AUTHORS   Belec,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-OCT-2013) Laboratoire de Virologie, Hopital Europeen
+            Georges Pompidou, 20, rue Leblanc, Paris Cedex, Ile-de-France
+            75908, France
+COMMENT     On Dec 22, 2014 this sequence version replaced KF735865.1.
+            Gap represents viral segment not sequenced by the TruGene HIV-1
+            genotyping kit.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Trugene HIV-1 v. /
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..999
+                     /organism="Human immunodeficiency virus 1"
+                     /proviral
+                     /mol_type="genomic DNA"
+                     /isolate="Cameroon1(Trugene) HIV DR 23"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11676"
+                     /country="Cameroon"
+                     /collection_date="Dec-2012"
+                     /note="subtype: CRF02"
+     gene            <1..>999
+                     /gene="pol"
+     CDS             <1..>999
+                     /gene="pol"
+                     /note="contains protease and reverse transcriptase"
+                     /codon_start=1
+                     /product="pol protein"
+                     /protein_id="AHG55026.2"
+                     /translation="TLWQXPLVTVKXEGQLIEALLDTGADDTVLEDINXPXKWXPKMI
+                     GGIGGFIXVRQYDQILIEICGKRAVGTVLVGPXPVNIJGRNMLTXIGCTLNXXXXXXX
+                     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXMEKEXXXSKIGXXXPYNTPVFAIXKXD
+                     STKWXKIVXFRXLNKXTQDFWXIQLGIPHPSGLKXNKSVTVLDVGDXYFSVPLDXDFR
+                     KYTAXXIPSXNXETPGIRYQXNVLPQGWKGSPAIFQASMXKIXEPFRTKNXEIVIYXY
+                     VDXXYVGSDXZIGQHXAKIEEXREHLLKWGFYXPDKKHQKEPPFLWMGYELXPDKXT"
+     gap             289..399
+                     /estimated_length=111
+ORIGIN      
+        1 actctttggc aaygaccctt agtcacagta aarntagagg gacaactaat agaagcccta
+       61 ttagacacag gagcagatga tacagtatta gaagacataa atktaccagr aaaatggara
+      121 ccaaaaatga tmgggggaat tggaggtttt atcawagtaa gacagtatga tcagatactt
+      181 atagaaattt gtggaaaaag ggctgtgggt acagtrttag taggacctas acctgtcaac
+      241 atamttggac gmaatatgtt gactcasatt ggctgtactt taaatttknn nnnnnnnnnn
+      301 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+      361 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnna tggaaaaaga agrararrwt
+      421 tcaaaaattg ggsctkraaa kccatacaay actccagtat ttgcaataav aaagawagat
+      481 agtactaaat ggakaaaaat agtasatttc agakaactta ataagakaac tcaagacttc
+      541 tgggrgatcc aattrggaat acctcatccc tcaggattaa aaawgaacaa atcagtaaca
+      601 gtattagatg tgggggatsc atatttttca gtccccttag atwaagactt tagaaagtac
+      661 actgcwtymm ctatacctag tayaaatwat gagacaccag ggatcagata tcaawacaat
+      721 gtgcttccac agggatggaa aggatcacca gcaatatttc aggcaagcat gasaaaaatc
+      781 tkagagccct ttagaacaaa gaatmcagag atagtgatct atmaatatgt ggatgwttka
+      841 tatgtaggat cagattyasa gatagggcag catasagcaa aaatagagga gtwgagagag
+      901 catctactga agtggggatt ttacasacca gacaaaaaac atcagaaaga acccccattt
+      961 ctttggatgg ggtatgaact ctmtcctgac aaatngaca
+//
+
